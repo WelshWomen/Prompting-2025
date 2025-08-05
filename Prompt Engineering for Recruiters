@@ -1,7 +1,6 @@
 #### Level 1 – RCT (Role, Context, Task)
 Simple tasks
 
-```txt
 Role: You are a tech recruiter.  
 Context: You're writing a job ad for a Montreal-based SMB.  
 Task: Rewrite this sentence in simpler terms.

@@ -1,0 +1,39 @@
+#### Level 1 – RCT (Role, Context, Task)
+Simple tasks
+
+```txt
+Role: You are a tech recruiter.  
+Context: You're writing a job ad for a Montreal-based SMB.  
+Task: Rewrite this sentence in simpler terms.
+
+
+#### Level 2 – Structured Prompt
+For complex content generation
+
+Objective: Write a clear and engaging job offer  
+Role: You're a recruiter in a tech agency  
+Context: 50-person growing startup based in Quebec  
+Task: Write the ad in 3 parts: hook, tasks, profile  
+Constraints: No jargon, max 300 words  
+Steps: Hook → Context → Tasks → Profile  
+Format: Raw text, 3 blocks  
+Data: React / TypeScript stack, office in Quebec, 2 days remote, open to juniors
+
+Level 3 – Chain-of-Thought (Step-by-step)
+For ideation and strategy
+
+Step 1: Give me 5 ideas to contact a passive senior candidate  
+→ Wait for response  
+Step 2: Rank by engagement potential  
+→ Wait for response  
+Step 3: Give 2 variations of the top 2 ideas  
+→ Wait for response  
+Step 4: Pick the best and write an outreach message
+
+
+#### Reminder on Sensitive Data
+
+Do not share:
+Real candidate names
+Non-anonymized CVs
+Internal company data
